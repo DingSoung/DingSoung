@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://visitor-badge.glitch.me/badge?page_id=DingSoung.DingSoung)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Wuhan
