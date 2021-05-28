@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on RN
 - 🤔 I’m looking for help with JS
 - 💬 Ask me about iOS
-- 📫 How to reach me: dingsoung@gmail.com
+- 📫 How to reach me: dingsoung(wechat)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
